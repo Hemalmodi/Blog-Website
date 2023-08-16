@@ -13,16 +13,16 @@ Welcome to my blog website! This is a personal practice project where I've devel
 ## Preview
 
 ### Home Page
-![Home Page](images/Home-Page.png)
+![Home-Page](https://github.com/Hemalmodi/Blog-Website/assets/86019445/6adc0721-d0a3-4d95-bd71-ecd42f8d2421)
 
 ### About Page
-![About Page](images/About-Page.png)
+![About-Page](https://github.com/Hemalmodi/Blog-Website/assets/86019445/ba34ff4b-64b6-4d55-b8be-6905cc09fdc6)
 
 ### Add New Blog Page
-![Add New Blog Page](images/Add-Blog-Page.png)
+![Add-Blog-Page](https://github.com/Hemalmodi/Blog-Website/assets/86019445/98d92cbb-ae4d-4f53-a2eb-74146bb96ca0)
 
 ### Blog Page
-![Blog Page](images/Inside-Blog-Page.png)
+![Inside-Blog-Page](https://github.com/Hemalmodi/Blog-Website/assets/86019445/f3d0ccc8-5280-4873-8d16-f0ed90c74b8a)
 
 ## How to Run
 
